@@ -16,19 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Java(+++), Python(+++), R(++), C++(++), VBA(++), POSTGRESQL(++), HTML/CSS(+), PHP(+), Matlab(+)
-    icon: 
-    icon_pack: 
-    name: coding
-  - description: German: native speaker, Englisch: level B2 in parts C1, French level B1 
-    icon: 
-    icon_pack: 
-    name: languages
-  - description: Driving License Klasse B
-    icon: 
-    icon_pack: 
-    name: Driving License
-	
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
