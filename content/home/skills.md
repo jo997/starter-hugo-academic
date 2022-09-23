@@ -16,18 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: German: native speaker, Englisch: level B2 in parts C1, French level B1 
+  - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Language
-  - description: Java(advanced), Python(advanced), R(good), C++(good), VBA(good), POSTGRESQL(good), HTML/CSS(beginner), PHP(beginner)
+    name: Language German: native speaker, Englisch: level B2 in parts C1, French level B1 
+  - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Coding
-  - description: Klasse B
+    name: Coding: Java(advanced), Python(advanced), R(good), C++(good), VBA(good), POSTGRESQL(good), HTML/CSS(beginner), PHP(beginner)
+  - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Driving License 
+    name: Driving License Klasse B
+	
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
