@@ -15,13 +15,19 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:  
-- Language German: native speaker, Englisch: level B2 in parts C1, French level B1  
-  
-- Computer Java(advanced), Python (advanced), R (good), C++ (good), VBA (good), POSTGRESQL(good), HTML/CSS (beginner), PHP(beginner)  
-  
-- Driving License Klasse B  
-  
+feature:
+  - description: German: native speaker, Englisch: level B2 in parts C1, French level B1 
+    icon: chart-line
+    icon_pack: fas
+    name: Language
+  - description: Java(advanced), Python(advanced), R(good), C++(good), VBA(good), POSTGRESQL(good), HTML/CSS(beginner), PHP(beginner)
+    icon: chart-line
+    icon_pack: fas
+    name: Coding
+  - description: Klasse B
+    icon: chart-line
+    icon_pack: fas
+    name: Driving License 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
