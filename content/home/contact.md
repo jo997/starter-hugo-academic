@@ -25,10 +25,8 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: 
-  phone: 
-  appointment_url: ''
-  contact_links:
+
+ contact_links:
   - icon: github
     icon_pack: fab
     link: https://github.com/jo997
