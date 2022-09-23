@@ -22,28 +22,51 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Working Student
+    company: Centrum für Digitalisierung, Führung und Nachhaltigkeit Schwarzwald gGmbH
+    company_url: 'https://www.campus-schwarzwald.de'
+    company_logo: 
+    location: Freudenstadt
+    date_start: '2021-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Working Student in the field of research with focus on software development. Collaboration in various projects in the area of Software Development, General IT, IT Security and Machine Learning. 
+	
+  - title: Research Assistant in the field of IT
+    company: Eberhard Karls Universität Tübingen
+    company_url: 'https://uni-tuebingen.de'
+    company_logo: 
+    location: Tuebingen
+    date_start: '2020-05-01'
+    date_end: '2022-05-01'
+    description: Research Assistant in the field of IT at the Institute of Educational Science. Supervision of a Django project, collaboration in various research projects.
+	
+  - title: Intern in Computer Science
+    company: Arburg
+    company_url: 'https://www.arburg.com/de/de/'
+    company_logo: 
+    location: Lossburg
+    date_start: '2021-03-01'
+    date_end: '2020-04-01'
+    description: Intern in computer science (focus on software development). Development of a tool with VBA for the  evaluation of training measures
+	
+  - title: Tutor mathematics
+    company: Studienkreis
+    company_url: 'https://www.studienkreis.de'
+    company_logo: 
+    location: Horb
+    date_start: '2019-10-01'
+    date_end: '2020-07-01'
+    description: Tutor mathematics
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Corporate Student Wirtschaftsinformatik Sales & Consulting
+    company: Bechtle
+    company_url: 'https://www.bechtle.com'
+    company_logo: 
+    location: Rottenburg
+    date_start: '2017-09-01'
+    date_end: '2018-12-10'
+    description: Corporate Student Wirtschaftsinformatik Sales & Consulting
+
 
 design:
   columns: '2'
