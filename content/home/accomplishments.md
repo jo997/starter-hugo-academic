@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.brightnetwork.co.uk/internship-experience-uk/technology
+  - certificate_url: 
     date_end: ''
     date_start: '2020-01-01'
     description: ''
@@ -31,7 +31,7 @@ item:
     organization_url: https://www.brightnetwork.co.uk/internship-experience-uk/technology
     title: Technology Internship Experience UK Bright Network	
     url: ''
-  - certificate_url: https://www.gymnasium-haigerloch.de
+  - certificate_url:
     date_end: ''
     date_start: '2017-01-01'
     description: ''
@@ -39,7 +39,7 @@ item:
     organization_url: https://www.gymnasium-haigerloch.de
     title: Award „Soziales Engagement“ Gymnasium Haigerloch
     url: ''
-  - certificate_url: https://jugendhackt.org
+  - certificate_url:
     date_end: ''
     date_start: '2015-01-01'
     description: ''
