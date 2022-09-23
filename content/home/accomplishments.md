@@ -23,7 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
- 
+	- 2020 Technology Internship Experience UK Bright Network  
+  
+	- 2017 Award „Soziales Engagement“ Gymnasium Haigerloch  
+  
+	- 2015 Jugend Hackt Süd 2015, 1st place in the category: „Mit Code die Welt verbessern“  
+  
 design:
   columns: '2'
 ---
