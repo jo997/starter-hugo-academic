@@ -23,30 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.brightnetwork.co.uk/internship-experience-uk/technology
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020-01-01'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Technology Internship Experience UK
+    organization_url: https://www.brightnetwork.co.uk/internship-experience-uk/technology
+    title: Technology Internship Experience UK Bright Network	
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.gymnasium-haigerloch.de
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2017-01-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Gymnasium Haigerloch
+    organization_url: https://www.gymnasium-haigerloch.de
+    title: Award „Soziales Engagement“ Gymnasium Haigerloch
     url: ''
+  - certificate_url: https://jugendhackt.org
+    date_end: ''
+    date_start: '2015-01-01'
+    description: ''
+    organization: JugendHackt
+    organization_url: https://jugendhackt.org
+    title: 'Jugend Hackt Süd 2015, 1st place in the category: „Mit Code die Welt verbessern“'
+    url: ''
+
 
 design:
   columns: '2'
