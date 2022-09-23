@@ -25,8 +25,9 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-
- contact_links:
+  email: 
+  phone: 
+  contact_links:
   - icon: github
     icon_pack: fab
     link: https://github.com/jo997
