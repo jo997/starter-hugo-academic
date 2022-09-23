@@ -34,7 +34,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: ''
-    description: 
+    description: ''
     organization: 
     organization_url: 
     title: '2017 Award „Soziales Engagement“ Gymnasium Haigerloch'
@@ -47,10 +47,6 @@ item:
     organization_url: 
     title: '2015 Jugend Hackt Süd 2015, 1st place in the category: „Mit Code die Welt verbessern“'
     url: ''
-
-
-
-
 
 
 
