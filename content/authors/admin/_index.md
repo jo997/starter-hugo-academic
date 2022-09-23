@@ -17,7 +17,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Software Engineering
   - Machine Learning
   - Data Science
 
