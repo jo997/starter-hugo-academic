@@ -22,14 +22,12 @@ feature:
     icon: 
     icon_pack: 
     name: 
-feature:
   - description: April 2019 - August 2022 Universität Tübingen Computer Science (B.Sc.)
     icon: 
     icon_pack: 
     icon: 
     icon_pack: 
     name: 
-feature:
   - description: September 2017 - November 2018 DHBW Stuttgart Major in Business Informatics (B.Sc.)
     icon: 
     icon_pack: 
