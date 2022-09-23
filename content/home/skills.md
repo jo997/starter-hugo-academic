@@ -16,12 +16,28 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Uni Tü
+  - description: August 2022 - today Karlsruher Institut für Technologie Computer Science (M.Sc.)
     icon: 
     icon_pack: 
     icon: 
     icon_pack: 
     name: 
+feature:
+  - description: April 2019 - August 2022 Universität Tübingen Computer Science (B.Sc.)
+    icon: 
+    icon_pack: 
+    icon: 
+    icon_pack: 
+    name: 
+feature:
+  - description: September 2017 - November 2018 DHBW Stuttgart Major in Business Informatics (B.Sc.)
+    icon: 
+    icon_pack: 
+    icon: 
+    icon_pack: 
+    name: 
+
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
