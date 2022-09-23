@@ -6,7 +6,7 @@ title: Johannes Gaus
 superuser: true
 
 # Role/position/tagline
-role: Student of Computer Science
+role: Student of Computer Science (M.Sc)
 
 # Organizations/Affiliations to show in About widget
 organizations:
