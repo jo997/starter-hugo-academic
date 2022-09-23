@@ -30,7 +30,6 @@ experience:
     date_start: '2021-05-01'
     date_end: ''
     description: Working Student in the field of research with focus on software development. Collaboration in various projects in the area of Software Development, General IT, IT Security and Machine Learning. 
-	
   - title: Research Assistant in the field of IT
     company: Eberhard Karls Universität Tübingen
     company_url: 'https://uni-tuebingen.de'
@@ -39,7 +38,6 @@ experience:
     date_start: '2020-05-01'
     date_end: '2022-05-01'
     description: Research Assistant in the field of IT at the Institute of Educational Science. Supervision of a Django project, collaboration in various research projects.
-	
   - title: Intern in Computer Science
     company: Arburg
     company_url: 'https://www.arburg.com/de/de/'
@@ -48,7 +46,6 @@ experience:
     date_start: '2021-03-01'
     date_end: '2020-04-01'
     description: Intern in computer science (focus on software development). Development of a tool with VBA for the  evaluation of training measures
-	
   - title: Tutor mathematics
     company: Studienkreis
     company_url: 'https://www.studienkreis.de'
@@ -57,7 +54,6 @@ experience:
     date_start: '2019-10-01'
     date_end: '2020-07-01'
     description: Tutor mathematics
-
   - title: Corporate Student Wirtschaftsinformatik Sales & Consulting
     company: Bechtle
     company_url: 'https://www.bechtle.com'
