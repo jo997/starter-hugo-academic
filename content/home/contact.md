@@ -27,13 +27,6 @@ content:
   # Contact details (edit or remove options as required)
   email: 
   phone: 
-  contact_links:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/jo997
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/jgaus1/
 
 design:
   columns: '2'
